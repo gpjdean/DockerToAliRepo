@@ -1,1 +1,1 @@
-d3vilh/openvpn-server:latest
+nginx:latest
