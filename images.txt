@@ -1,1 +1,2 @@
-redis:latest
+d3vilh/openvpn-server:latest
+d3vilh/openvpn-ui:latest
