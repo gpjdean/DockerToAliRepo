@@ -1,2 +1,2 @@
-bitnami/kafka:latest
+kafka:latest
 provectuslabs/kafka-ui:latest
