@@ -1,2 +1,2 @@
-kafka:latest
+apache/kafka:latest
 provectuslabs/kafka-ui:latest
