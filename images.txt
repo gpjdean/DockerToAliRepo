@@ -1,2 +1,1 @@
-apache/kafka:latest
-provectuslabs/kafka-ui:latest
+liteops/liteops:latest
