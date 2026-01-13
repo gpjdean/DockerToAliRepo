@@ -1,1 +1,1 @@
-liteops/liteops:v2.0
+prom/alertmanager:v0.14.0
