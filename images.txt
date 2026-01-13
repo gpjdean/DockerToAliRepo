@@ -1,1 +1,1 @@
-prom/alertmanager:v0.14.0
+prom/alertmanager:latest
